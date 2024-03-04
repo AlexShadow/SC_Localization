@@ -5,7 +5,7 @@
 4. Создаем в ней папку «korean_(south_korea)»(без кавычек)
 5. Открываем ее
 6. Вставляем туда файл «global.ini»
-7. Открываем папку « LIVE » по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\
+7. Открываем папку по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\LIVE
 8. Создаем в ней текстовый файл
 9. В нем вводим «g_language = korean_(south_korea)»(без кавычек)
 10. Переименовываем текстовый файл в «user.cfg»(без кавычек)
