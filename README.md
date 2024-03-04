@@ -1,5 +1,5 @@
 
-1. Открываем папку «data» по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\LIVE\
+1. Открываем папку «data» по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\LIVE\data\
 2. Создаем в ней папку «Localization»(без кавычек)
 3. Открываем ее
 4. Создаем в ней папку «korean_(south_korea)»(без кавычек)
