@@ -15,4 +15,4 @@
     Все тоже самое но с сайта Star Citizen
     https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update
 
- Все пожелание и предложения  https://discord.gg/t4XGgrRD
+ Все пожелание и предложения  [Discord](https://discord.gg/t4XGgrRD)
