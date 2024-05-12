@@ -15,3 +15,5 @@
     Все тоже самое но с сайта Star Citizen [на сайт](https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update)
 
  Все пожелание и предложения  [Discord](https://discord.gg/t4XGgrRD)
+
+Желающих поддержать перевод [Donate](https://www.donationalerts.com/r/andor_city)
