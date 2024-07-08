@@ -16,4 +16,4 @@
 
  Все пожелание и предложения  [Discord](https://discord.gg/t4XGgrRD)
 
-Желающих поддержать перевод [Donate](https://www.donationalerts.com/r/andor_city)
+
