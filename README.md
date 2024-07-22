@@ -12,7 +12,8 @@
 6. Вставляем туда файл «global.ini»
 7. Открываем папку по адресу: Х:\ хххххх\Roberts Space Industries\StarCitizen\LIVE
 8. Вставляем туда файл «user.cfg»
-    Все тоже самое но с сайта Star Citizen [на сайт](https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update)
+
+ Все тоже самое но с сайта Star Citizen [на сайт](https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-citizen-community-localization-update)
 
  Все пожелание и предложения  [Discord](https://discord.gg/t4XGgrRD)
  
